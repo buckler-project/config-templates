@@ -1,5 +1,7 @@
 url:
+    https://github.com/YOU/REPO
     # URL which point share library file is here.
 
 path:
+    data/libNAME.so
     # Path which point share library file is here.
